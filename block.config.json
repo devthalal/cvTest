@@ -15,7 +15,10 @@
   "repoType": "mono",
   "dependencies": {
     "cvtFn1": {
-      "directory": "cvtFn1"
+      "directory": "cvtFn1",
+      "versionId": "0aEcrCorUa5-6t7G0Lxka",
+      "version": "0.0.1"
     }
-  }
+  },
+  "version": "0.0.1"
 }
