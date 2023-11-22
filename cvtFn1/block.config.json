@@ -1,0 +1,20 @@
+{
+  "blockId": "FobDGkjJao5P8aGC7Qc9n",
+  "name": "cvtFn1",
+  "type": "function",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_cvtFn1"
+  },
+  "parentBlockIDs": [
+    "r0z5CrRfkJ00-7ovKdQ2D"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}

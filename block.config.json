@@ -1,0 +1,21 @@
+{
+  "name": "cvTest",
+  "type": "package",
+  "blockId": "r0z5CrRfkJ00-7ovKdQ2D",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_cvTest"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "cvtFn1": {
+      "directory": "cvtFn1"
+    }
+  }
+}
