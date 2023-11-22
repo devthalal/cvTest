@@ -3,8 +3,8 @@
   "name": "cvtFn1",
   "type": "function",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/devthalal/cvTest.git",
+    "ssh": "git@github.com:devthalal/cvTest.git",
     "branch": "block_cvtFn1"
   },
   "parentBlockIDs": [

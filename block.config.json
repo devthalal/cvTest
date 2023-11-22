@@ -3,8 +3,8 @@
   "type": "package",
   "blockId": "r0z5CrRfkJ00-7ovKdQ2D",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/devthalal/cvTest.git",
+    "ssh": "git@github.com:devthalal/cvTest.git",
     "branch": "block_cvTest"
   },
   "parentBlockIDs": [],
